@@ -1,0 +1,16 @@
+{
+  "tablesConfigs": {
+    "TABLE1": {
+      "includedColumns": [],
+      "exludedColumns": [],
+      "whereClause": "",
+      "columnsForJoin": []
+    },
+    "TABLE2": {
+      "includedColumns": [],
+      "exludedColumns": [],
+      "whereClause": "",
+      "columnsForJoin": []
+    }
+  }
+}
